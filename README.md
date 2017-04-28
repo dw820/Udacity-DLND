@@ -18,7 +18,7 @@ Overview:
   
   
   Project4
-    Using RNN sequence to sequence model to translate new sentences from English to French.
+    Using RNN sequence to sequence model to translate new sentences from English to French.
   
   
   Project5
